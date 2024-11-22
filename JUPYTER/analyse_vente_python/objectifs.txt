@@ -1,0 +1,5 @@
+Nous allons nous baser les données mensuelles de vente d'une société de smartphones et gadgets:
+1- Quel est le mois durant lequel nous avons réalisé le meilleur chiffre d'affaire?
+2- Dans quelle ville nous avons enregistré un maximum de commandes?
+3- En quelle moment doit on faire un campagne publicitaire pour avoir plus de ventes?
+4- Quel produit se vend le plus?
